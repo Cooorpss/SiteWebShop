@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Comic CAT";
+    font-style: normal;
+    src: url("/Fonts/Comic_CAT/Comic_CAT.otf") format("opentype");
+}
+.headname{
+    height: 10%;
+    font-family: "Comic CAT";
+    /* background-color: ; */
+    display: flex;
+    align-items: center;
+}
+
+img{
+    height: 5rem;
+}
